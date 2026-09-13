@@ -18,11 +18,7 @@ I'm currently building projects as part of my Data Analytics learning journey.
 
 Some projects I'll be adding to my portfolio:
 
-* Retail Sales Analysis Dashboard
-* E-Commerce Data Analysis
-* Business Performance Analysis
-
-> These are currently placeholder projects and will be replaced with my actual projects as I build them.
+Here are the Projects -> Projects
 
 ### 🛠️ Tools
 
