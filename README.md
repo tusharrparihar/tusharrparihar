@@ -18,7 +18,7 @@ I'm currently building projects as part of my Data Analytics learning journey.
 
 Some projects I'll be adding to my portfolio:
 
-Here are the Projects -> Projects
+You can view my projects here -> Projects
 
 ### 🛠️ Tools
 
